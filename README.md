@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Atcoder: [https://atcoder.jp/users/osushi5](https://atcoder.jp/users/osushi5)
+AtCoder: [https://atcoder.jp/users/osushi5](https://atcoder.jp/users/osushi5)
