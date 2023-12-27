@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-AtCoder: [https://atcoder.jp/users/osushi5](https://atcoder.jp/users/osushi5)
+Twitter: [@at_sushi_](https://twitter.com/at_sushi_)
+AtCoder: [@osushi5](https://atcoder.jp/users/osushi5)
